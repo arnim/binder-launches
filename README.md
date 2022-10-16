@@ -40,3 +40,9 @@ module.exports = config;
 ```
 5. Start the node server with `npm run start-server`
 6. Start the react app in dev mode with `npm run start-client` and then it will be available at [http://localhost:3000](http://localhost:3000)
+
+---
+
+Funded by the German Research Foundation (DFG).
+FKZ/project number:
+[324867496](https://gepris.dfg.de/gepris/projekt/324867496?context=projekt&task=showDetail&id=324867496&).
